@@ -19,4 +19,3 @@
 ## **5. Reports Page**
 - View detailed analytics and export sales reports as PDFs.
 - Includes graphs and charts for visual insights.
-9
